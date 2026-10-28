@@ -1,0 +1,14 @@
+ARQPUNTURA V3.1 — PORTAFOLIO ACTUALIZADO
+
+Abrir index.html en el navegador. Mantener juntos index.html, script.js, styles.css y assets/.
+
+Cambios:
+- Hospital México y Edificio de Hacienda separados como dos proyectos.
+- Créditos: diseño integral por Arq. Joselito Padilla Amador; vinculación CNFL indicada en ambas fichas.
+- Obras explícitamente identificadas como construidas: dirección de obra acreditada.
+- Fotografías ajustadas de forma tonal, sin alterar geometría.
+
+IMPORTANTE: revisar la correspondencia de cada foto con el edificio antes de publicar; las fechas y nombres de archivo originales no identifican inequívocamente el inmueble.
+No se han inventado fechas, niveles fotométricos ni estados de construcción.
+
+V3.2: Logo original incorporado; imágenes duplicadas exactas eliminadas de fichas; tarjetas corregidas; scroll y jerarquía visual ajustados. IMPORTANTE: las asociaciones de fotografías a proyectos deben verificarse antes de publicar.

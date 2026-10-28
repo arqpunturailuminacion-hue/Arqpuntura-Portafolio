@@ -1,0 +1,5 @@
+REVISIÓN DE MAQUETACIÓN (NO DEFINITIVA)
+- Corregida retícula de proyectos: 2 columnas consistentes en escritorio, 1 en móvil.
+- Portadas de tarjeta con proporción 3:2, títulos sin cortes arbitrarios.
+- PENDIENTE: el catálogo JS contiene fichas genéricas y agrupaciones no verificadas; no se considera validada la clasificación ni la correspondencia de imágenes.
+- PENDIENTE: cotejo proyecto por proyecto contra las fuentes originales antes de publicar.

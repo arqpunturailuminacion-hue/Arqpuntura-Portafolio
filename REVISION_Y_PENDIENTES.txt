@@ -1,0 +1,7 @@
+ARQPUNTURA — revisión de calidad (versión de prueba)
+
+Cambios: límites coherentes de altura de portada, tarjetas y visor; retícula 7/5 y 6/6 en escritorio, 2 columnas en tablet y una en celular; contraste del logo según tema; accesibilidad de foco.
+
+Se corrigió un fallo funcional: los proyectos sin imagen se ocultaban del catálogo por el filtro p.image. Ahora aparecen con tarjeta tipográfica de documentación pendiente, sin fotos inventadas.
+
+PENDIENTES DE CONFIRMACION: fotografías originales de Edificio Don Esteban y Villa Belén Brilla 2024; atribución de imágenes heredadas; verificación de las fichas y fotografías originales por el autor. No se sustituyó ni generó ninguna fotografía.

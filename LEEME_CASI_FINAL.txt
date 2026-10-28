@@ -1,0 +1,48 @@
+ARQPUNTURA - CASI FINAL / 27 OCTUBRE 2026
+
+Se añadieron archivos fotográficos reales de Casa Frammenti, Casa Piedras, Casa Scala, Parque del Este y simulaciones de iluminación deportiva.
+Se conservó la portada original y la sección Herramientas - Próximamente.
+Las fichas sin documentación fotográfica identificada no aparecen en la grilla pública; permanecen en el catálogo del código para completar sin inventar imágenes.
+Se conservan otras fotografías previamente clasificadas cuya atribución requiere revisión final.
+No se usaron imágenes generadas por IA.
+
+ARCHIVOS AÑADIDOS:
+Casa Frammenti | IMG20260707200700.jpg | archivo-3b767d4729.webp
+Casa Frammenti | IMG20251025181751.jpg | archivo-c177ee4c77.webp
+Casa Frammenti | IMG20251025181814.jpg | archivo-e166987245.webp
+Casa Frammenti | IMG20251222194254.jpg | archivo-3e757f29cb.webp
+Casa Frammenti | IMG20260707141107.jpg | archivo-2448dddd1b.webp
+Casa Frammenti | IMG20260121103207.jpg | archivo-1ab90d01fd.webp
+Casa Frammenti | IMG20260121103259.jpg | archivo-8e30125d31.webp
+Casa Frammenti | IMG20260331173056.jpg | archivo-e92ad4df5d.webp
+Casa Frammenti | IMG20251207132009.jpg | archivo-299c3a4b5e.webp
+Casa Frammenti | IMG20251222193636.jpg | archivo-5800922a09.webp
+Casa Piedras | cp4.jpg | archivo-ba5c6b9092.webp
+Casa Piedras | cp5.jpg | archivo-081030fda9.webp
+Casa Piedras | cp1.jpg | archivo-4e763632e1.webp
+Casa Piedras | cp2.jpg | archivo-d18ca3eb57.webp
+Casa Piedras | cp3.jpg | archivo-76f4a90039.webp
+Casa Piedras | c1.jpg | archivo-b3bb9f1b17.webp
+Casa Piedras | c2.jpg | archivo-87bb50ca77.webp
+Casa Piedras | c3.jpg | archivo-364eee0470.webp
+Casa Piedras | 20190620_001737_HDR.jpg | archivo-f93b934cb1.webp
+Casa Piedras | 20190611_055946_HDR.jpg | archivo-0d350fef9d.webp
+Casa Scala | cs2.jpeg | archivo-f554ad4af2.webp
+Casa Scala | cs1.png | archivo-13166d4f1d.webp
+Parque del Este · Liberia | Imagen1.png | archivo-70519b71fa.webp
+Parque del Este · Liberia | Imagen2.png | archivo-c335db2849.webp
+Parque del Este · Liberia | Imagen3(1).png | archivo-fd0c189f87.webp
+Parque del Este · Liberia | Imagen4.png | archivo-53d48f43ce.webp
+Parque del Este · Liberia | Imagen5.png | archivo-c8d0e08617.webp
+Parque del Este · Liberia | Imagen6.png | archivo-2d86671ff9.webp
+Parque del Este · Liberia | Imagen7.png | archivo-9d5dea3d8e.webp
+Parque del Este · Liberia | Imagen8.png | archivo-82e13a54a5.webp
+Parque del Este · Liberia | Imagen9.png | archivo-f607efae8d.webp
+Parque del Este · Liberia | Imagen10.png | archivo-d91f0017f3.webp
+Parque del Este · Liberia | Imagen11(1).png | archivo-6b9ea26d08.webp
+Parque del Este · Liberia | Imagen12(1).png | archivo-2c86d6c999.webp
+Instituto Superior Julio Acosta | cancha santiago 1.png | archivo-6ea013620e.webp
+Instituto Superior Julio Acosta | cancha santiago 2.png | archivo-95c137a08b.webp
+Instituto Superior Julio Acosta | cancha santiago 3.png | archivo-e349e0ac34.webp
+Instalaciones de luz y forma | 20190817_233219.jpg | archivo-d74093f054.webp
+Instalaciones de luz y forma | 20190818_013313.jpg | archivo-efa9e9398b.webp

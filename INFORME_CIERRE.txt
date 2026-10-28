@@ -1,0 +1,7 @@
+ARQPUNTURA — REVISIÓN DE CIERRE
+
+Cambios: tarjetas más compactas, límites de altura, filtros vacíos ocultos, ficha sin foto no presenta logo como foto de obra, enfoque de teclado visible, textos de revisión interna retirados de la web, portada y frases conservadas.
+
+Catálogo: 13 fichas. Fotografías de Edificio Don Esteban y Villa Belén Brilla 2024 aún pendientes; NO se sustituyen por imágenes ajenas.
+
+Validación: referencias de archivos de imágenes existentes, sintaxis JS comprobada. Sin prueba visual automatizada en navegador. Atribución fotográfica requiere comprobación final con originales.

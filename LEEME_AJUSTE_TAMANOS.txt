@@ -1,0 +1,5 @@
+ARQPUNTURA - REVISIÓN COMPACTA 2026-10-27
+
+Ajustes: ancho de contenido máximo ~1180 px; altura de tarjetas 185-310 px en escritorio; portada 250-385 px; secciones más compactas; modal reducido; diseño adaptable a tablet y celular.
+Se conserva el catálogo y los archivos originales de la versión anterior. No se agregaron imágenes generadas.
+Nota: clasificación fotográfica y material faltante siguen sujetos a verificación.

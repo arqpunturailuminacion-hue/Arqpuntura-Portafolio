@@ -1,0 +1,20 @@
+ARQPUNTURA — REVISIÓN INTEGRAL / ENTREGA DE REVISIÓN
+
+MEJORAS REALIZADAS
+- Consolidación de reglas de tamaño y retícula en un solo bloque de estilos; se eliminaron parches compactos posteriores que competían entre sí.
+- Retícula asimétrica equilibrada 7/5, 6/6 y 5/7 en escritorio; dos columnas en tablet y una en móvil.
+- Portada <=345 px, tarjetas <=260 px y visor <=360 px (escritorio).
+- Contraste de logotipo según tema; foco visible en navegación.
+- Mantiene el catálogo y las fotografías originales existentes, sin generación de imágenes.
+- Metadatos sociales básicos añadidos.
+
+VERIFICACIONES AUTOMÁTICAS
+- Referencias de imágenes del catálogo: completas.
+- Sintaxis JavaScript: correcta.
+- ZIP: verificación de integridad.
+
+PENDIENTES REALES ANTES DE PUBLICAR
+- Edificio Don Esteban y Villa Belén Brilla 2024 aún no tienen imágenes verificadas.
+- El autor debe confirmar asociaciones heredadas de fotografías a cada obra.
+- Pruebas visuales reales en navegador/escritorio y móvil no realizadas aquí.
+- No afirmar que el portafolio está terminado ni que toda la curaduría está aprobada.
